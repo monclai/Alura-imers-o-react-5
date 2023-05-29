@@ -2,7 +2,7 @@
 
 <h1 align="center"> Imersão React 5 - AluraTube </h1>
 
-![Capa - AluraTube NextJS](https://github.com/monclai/Alura-imersao-react-5/assets/44307789/ff590645-22e5-4c06-8183-e94a4aab7387)
+![Capa - AluraTube NextJS](https://github.com/monclai/Alura-imersao-react-5/assets/44307789/ff590645-22e5-4c06-8183-e94a4aab7387#vitrinedev)
 
 ![javascript](https://img.shields.io/badge/LANGUAGE-javascript-yellow)
 ![Reactjs](https://img.shields.io/badge/LIBRARY-ReactJS-blue)
