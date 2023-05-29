@@ -11,7 +11,7 @@
 
 ## Descrição do projeto
 
-Um fake youtube, isto é aluraTube, feito como forma de aprendizagem de Reactjs e Nextjs; nele estão presentes hooks como useState e useContext além de ser feito uma interface que pode ser alterada entre light e dark mode.
+Um fake youtube, isto é aluraTube, feito como forma de aprendizagem de Reactjs e Nextjs durante a imersão react 5; nele estão presentes hooks como useState e useContext além de ser feito uma interface que pode ser alterada entre light e dark mode.
 
 ## Status do Projeto
 
